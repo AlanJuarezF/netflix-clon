@@ -1,5 +1,5 @@
 {
-    "game1":{
+    "player1":{
         "url": "https://www.youtube.com/watch?v=IHyI_0voQGA",
         "title": "ASÍ NOS CLASIFICAMOS AL CHAMPIONS DE VALORANT | VOICE COMMS GIANTS vs KOI",
         "mini": "lib/assets/miniatures/vcgiants.jpg",
@@ -7,7 +7,7 @@
         "date": "24 de julio de 2023",
         "description": "Voice Comms del Juego entre Giants y KOI"
     }, 
-    "game2":{
+    "player2":{
         "url": "https://www.youtube.com/watch?v=IyYeW_cm3A4",
         "title": "TODO VUELVE A ORDENARSE: VOICECOMMS vs MIBR y FURIA | VALORANTLCQ",
         "mini": "lib/assets/miniatures/mvckru.jpg",
@@ -15,7 +15,7 @@
         "date": "20 de julio de 2023",
         "description": "Voice Comms del Juego entre MIBR y FURIA"
     },
-    "game3":{
+    "player3":{
         "url": "https://www.youtube.com/watch?v=gKr5MQ2fyrU",
         "title": "How We Became WORLD CHAMPIONS Again | Voice Comms Vs EG",
         "mini": "lib/assets/miniatures/vcfntic.jpg",

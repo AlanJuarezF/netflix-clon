@@ -1,5 +1,5 @@
 {
-    "game1":{
+    "video1":{
         "url": "https://www.youtube.com/watch?v=ChRQUR4pnG4",
         "title": "KRU VS GIANTS",
         "mini": "lib/assets/miniatures/kruvsgiants.jpg",
@@ -7,7 +7,7 @@
         "date": "11 de agosto de 2023",
         "description": "Juego entre KRU y Giants"
     }, 
-    "game2":{
+    "video2":{
         "url": "https://www.youtube.com/watch?v=jnvJ7LIX-FE",
         "title": "GIANTS VS EDG",
         "mini": "lib/assets/miniatures/giantsvsedg.jpg",
@@ -15,7 +15,7 @@
         "date": "13 de agosto de 2023",
         "description": "Juego entre Giants y EDG"
     },
-    "game3":{
+    "video3":{
         "url": "https://www.youtube.com/watch?v=2jGFkNHwrik",
         "title": "NRG VS BLG",
         "mini": "lib/assets/miniatures/nrgvsblg.jpg",
