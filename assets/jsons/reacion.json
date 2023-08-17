@@ -1,26 +1,28 @@
 {
-    "game1":{
-        "url": "https://www.youtube.com/watch?v=ca1kFxwKj0I",
-        "title": "MIXWELL REACCIONA A KRÜ VS GIANTS - VALORANT CHAMPIONS 2023 GRUPO A",
-        "mini": "lib/assets/miniatures/mixkru.jpg",
-        "duration": "35:03",
-        "date": "11 de agosto de 2023",
-        "description": "Reaccion del Juego entre KRU y Giants"
-    }, 
-    "game2":{
-        "url": "https://www.youtube.com/watch?v=6bAWdbfGNOI",
-        "title": "MIXWELL REACCIONA A GIANTS VS EDG - VALORANT CHAMPIONS 2023 GRUPO A",
-        "mini": "lib/assets/miniatures/mixgiants.jpg",
-        "duration": "28:05",
-        "date": "13 de agosto de 2023",
-        "description": "Reaccion del Juego entre Giants y EDG"
-    },
-    "game3":{
-        "url": "https://www.youtube.com/watch?v=HNoZHU9w1Is",
-        "title": "MIXWELL REACCIONA A BLG VS NRG - VALORANT CHAMPIONS 2023 GRUPO C",
-        "mini": "lib/assets/miniatures/mixblg.jpg",
-        "duration": "24:06",
-        "date": "13 de agosto de 2023",
-        "description": "Reaccion del Juego entre NRG y BLG"
-    }
+    "episodes": [
+        {
+            "url": "https://www.youtube.com/watch?v=ca1kFxwKj0I",
+            "title": "MIXWELL REACCIONA A KRÜ VS GIANTS - VALORANT CHAMPIONS 2023 GRUPO A",
+            "mini": "lib/assets/miniatures/mixkru.jpg",
+            "duration": "35:03",
+            "date": "11 de agosto de 2023",
+            "description": "Reaccion del Juego entre KRU y Giants"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=6bAWdbfGNOI",
+            "title": "MIXWELL REACCIONA A GIANTS VS EDG - VALORANT CHAMPIONS 2023 GRUPO A",
+            "mini": "lib/assets/miniatures/mixgiants.jpg",
+            "duration": "28:05",
+            "date": "13 de agosto de 2023",
+            "description": "Reaccion del Juego entre Giants y EDG"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=HNoZHU9w1Is",
+            "title": "MIXWELL REACCIONA A BLG VS NRG - VALORANT CHAMPIONS 2023 GRUPO C",
+            "mini": "lib/assets/miniatures/mixblg.jpg",
+            "duration": "24:06",
+            "date": "13 de agosto de 2023",
+            "description": "Reaccion del Juego entre NRG y BLG"
+        }
+    ]
 }

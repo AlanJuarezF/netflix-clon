@@ -21,7 +21,7 @@ class SuggestionCard extends StatelessWidget {
                   ));
             },
             child: const Image(
-              image: AssetImage('assets/images/start.jpg'),
+              image: AssetImage('assets/images/starts.jpg'),
             ),
           ),
         ),
@@ -37,22 +37,33 @@ class SuggestionCard extends StatelessWidget {
             ),
             SizedBox(
               width: 300,
-              height: 50,
+              height: 100,
               child: Text(
-                'Revive los mejores momentos de la VCT 2023',
-                style: Theme.of(context).textTheme.displayMedium,
+                "Revive los mejores momentos de la VCT 2023",
+                style: Theme.of(context).textTheme.bodyMedium,
+                textAlign: TextAlign.justify,
               ),
             ),
             SizedBox(
               width: 300,
               height: 50,
               child: Text(
-                'Duracion: 12:56',
-                style: Theme.of(context).textTheme.displayMedium,
+                "Fecha: 11/08/2023",
+                style: Theme.of(context).textTheme.bodyMedium,
+                textAlign: TextAlign.justify,
               ),
-            )
+            ),
+            SizedBox(
+              width: 300,
+              height: 50,
+              child: Text(
+                "Duración: 11:26",
+                style: Theme.of(context).textTheme.bodyMedium,
+                textAlign: TextAlign.justify,
+              ),
+            ),
           ],
-        )
+        ),
       ],
     );
   }

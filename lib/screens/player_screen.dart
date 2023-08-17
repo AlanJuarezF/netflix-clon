@@ -1,4 +1,4 @@
-import 'package:flutter/foundation.dart';
+// import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
@@ -29,7 +29,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         initialVideoId: _videoId,
         flags: const YoutubePlayerFlags(
             mute: false,
-            autoPlay: true,
+            autoPlay: false,
             disableDragSeek: false,
             isLive: false,
             forceHD: false,
