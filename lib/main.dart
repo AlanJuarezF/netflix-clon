@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    //Items _items = Items();
     return MaterialApp(
       title: 'VCT Tv',
       debugShowCheckedModeBanner: false,
@@ -28,6 +29,8 @@ class MyApp extends StatelessWidget {
                 fontFamily: 'Tahoma'),
             headlineMedium: TextStyle(
                 color: Colors.white, fontSize: 20, fontWeight: FontWeight.bold),
+            headlineSmall: TextStyle(
+                color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
             bodyMedium: TextStyle(
                 color: Colors.white, fontSize: 14, fontWeight: FontWeight.bold),
             bodySmall: TextStyle(
@@ -44,6 +47,10 @@ class MyApp extends StatelessWidget {
           ),
           useMaterial3: true),
       home: const StartScreen(),
+      //routes: {
+      //         //'/': (context) => const StartScreen(), // Esta es la ruta inicial
+      //         'ListScreen': (context) => ListScreen( listItems: _items,), // Esta es la ruta que quieres usar
+      // },
     );
   }
 }
